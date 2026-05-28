@@ -76,7 +76,7 @@ Generates intelligent business suggestions such as:
  Step 1 – Clone Repository
 
 bash
-git clone https://github.com/your-username/ecommerce_analyzer.git
+git clone
 cd ecommerce_analyzer
 
 
