@@ -1,0 +1,6 @@
+1) shift+ right click
+2) choose window power shall 
+3) run as administrator
+4) run this command
+
+"py -m streamlit run app.py"
